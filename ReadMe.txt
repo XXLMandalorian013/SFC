@@ -1,1 +1,0 @@
-Loads SFC into Win Task Scheduler and copies the .CSB file SFC makes should you want to view their logs.
